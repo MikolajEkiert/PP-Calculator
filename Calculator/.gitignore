@@ -1,0 +1,46 @@
+# Visual Studio specific
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.csproj.user
+*.sln.docstates
+*.pidb
+*.rsuser
+*.rsx
+*.dotCover
+*.ncrunchsolution
+*.ncrunchproject
+*.resharper
+_ReSharper.Caches
+[Ee]xported[Oo]bj/
+
+# JetBrains Rider specific
+.idea/
+*.sln.iml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/libraries/
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/.idea_modules/
+
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+
+# Others
+project.lock.json
+project.fragment.lock.json
+artifacts/
